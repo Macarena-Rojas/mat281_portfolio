@@ -11,7 +11,7 @@
 
 ## Portafolio Personal
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Macarena-Rojas/mat281_portfolio/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Macarena-Rojas/mat281_portfolio/master?urlpath=lab)
 
 * __Macarena Rojas__ :
 
